@@ -5,6 +5,9 @@ These are built for specifically sm64ex-coop and may not work on other ports/ver
 # Model Packs
 ## Skateboard Model
 Made to go over the default Shell Model, edits the koopa model to account for this.
+
+Thank you [Agent X](https://github.com/Agent-11) for assistance with importing!
+
  ![image](https://github.com/SQUISHY6094/squishys-dynos/blob/main/Skateboard/Skateboard_Render.png)
 
 ## Mgek_ Chibi Boo
