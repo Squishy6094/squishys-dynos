@@ -23,3 +23,8 @@ Made for [@oquanaut](https://twitter.com/oquanaut) on Twitter!
 [Original Post](https://x.com/6094Squishy/status/1698735161809195210?s=20)
 
  ![image](https://github.com/SQUISHY6094/squishys-dynos/blob/main/Oqua%20-%20Silly%20Roblox%20Man/there%20he%20is!!!.png)
+
+## Corvl
+Made for a friend of a friend ig, nothing too special tbh :/
+
+![image](https://github.com/SQUISHY6094/squishys-dynos/blob/main/Corvl/thecube%20man%2064.png)
