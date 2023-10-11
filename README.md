@@ -1,6 +1,8 @@
 # Squishy's DynOS Packs
 ### A Repo to store all of my DynOS packs!
-These are built for specifically sm64ex-coop and may not work on other ports/versions
+These are built for specifically [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) and may not work on other ports/versions
+
+Most of these packs are also posted on my Twitter [@6094Squishy](https://twitter.com/6094Squishy)!
 
 # Model Packs
 ## Skateboard Model
